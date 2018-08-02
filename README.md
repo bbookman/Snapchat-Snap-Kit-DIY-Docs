@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snapchat-Snapkit-DIY-Docs</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -11,8 +12,6 @@
   <div class="stackedit__left">
     <div class="stackedit__toc">
 
-<ul>
-<li><a href="#snapchat-snapkit-diy-docs">Snapchat-Snapkit-DIY-Docs</a>
 <ul>
 <li><a href="#purpose">Purpose</a></li>
 <li><a href="#ios-centric">iOS Centric</a></li>
