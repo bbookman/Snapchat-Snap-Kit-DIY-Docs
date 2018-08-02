@@ -91,7 +91,7 @@ So if you registered my-app://auth/snap then you would have this entry in your I
   <p>Want support?  In theory go to <a href="https://support.snapchat.com/en-US/i-need-help">I need help</a>
   <p>Do not do what the documentation says to do in order to get support.  This is the doc:</p>
   <img src="https://i.imgur.com/ftE1pUt.png">
-  <br>
+  <hr>
   <p>But this is the response I got from doing exactly what it says to do:<p>
   <img src="https://i.imgur.com/jm0ED31.png">
 </body>
