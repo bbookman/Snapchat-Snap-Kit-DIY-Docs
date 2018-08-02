@@ -4,14 +4,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README.md</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
   <div class="stackedit__left">
     <div class="stackedit__toc">
-      
+
 <ul>
 <li><a href="#snapchat-snapkit-diy-docs">Snapchat-Snapkit-DIY-Docs</a>
 <ul>
@@ -29,7 +28,6 @@
 </li>
 </ul>
 
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
@@ -90,8 +88,6 @@ So if you registered my-app://auth/snap then you would have this entry in your I
 <li>See this <a href="https://github.com/Snap-Kit/bitmoji-sample/issues/3">bug filed</a><br>
 …</li>
 </ul>
-
-    </div>
   </div>
 </body>
 
