@@ -19,7 +19,7 @@
 <li><a href="#contact">Contact</a></li>
 <li><a href="#snapkit">Snapkit</a>
 <li><a href="#loginkit">LoginKit</a></li>
-<li><a href="#support>Snapchat Snapkit Support</a>
+<li><a href="#support">Snapchat Snapkit Support</a></li>
 </ul>
 
   </div>
