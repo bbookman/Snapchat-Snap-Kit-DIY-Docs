@@ -17,13 +17,9 @@
 <li><a href="#contributing">Contributing</a></li>
 <li><a href="#bugs-and-requests">Bugs and requests</a></li>
 <li><a href="#contact">Contact</a></li>
-</ul>
-</li>
 <li><a href="#snapkit">Snapkit</a>
-<ul>
 <li><a href="#loginkit">LoginKit</a></li>
-</ul>
-</li>
+<li><a href="#support>Snapchat Snapkit Support</a>
 </ul>
 
   </div>
@@ -87,6 +83,7 @@ So if you registered my-app://auth/snap then you would have this entry in your I
 …</li>
 </ul>
   </div>
+  <a href="#support></a>
   <h1>Snapchat Snapkit Support</h1>
   <p>Want support?  In theory go to <a href="https://support.snapchat.com/en-US/i-need-help">I need help</a>
   <p>Do not do what the documentation says to do in order to get support.  This is the doc:</p>
