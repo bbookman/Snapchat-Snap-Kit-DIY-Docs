@@ -10,7 +10,7 @@
 <body class="stackedit">
   <div class="stackedit__left">
     <div class="stackedit__toc">
-<h1>Snapchat-Snapkit-DIY-Docs<\h1>
+<h1>Snapchat-Snapkit-DIY-Docs</h1>
 <ul>
 <li><a href="#purpose">Purpose</a></li>
 <li><a href="#ios-centric">iOS Centric</a></li>
