@@ -86,11 +86,26 @@ So if you registered my-app://auth/snap then you would have this entry in your I
 </ul>
   </div>
   <h1 id="support">Snapchat Snapkit Support</h1>
+  <h2>Don't try this, because you won't get support - Part 1<h2>
   <p>Want support?  In theory go to <a href="https://support.snapchat.com/en-US/i-need-help">I need help</a>
   <p>Do not do what the documentation says to do in order to get support.  This is the doc:</p>
   <img src="https://i.imgur.com/ftE1pUt.png">
   <hr>
   <p>But this is the response I got from doing exactly what it says to do:<p>
   <img src="https://i.imgur.com/jm0ED31.png">
+  <h2>Don't try this, because you won't get support - Part 2</h2>
+  <p>Don't tweet to <a href="https://twitter.com/snapchatsupport>Snapchat Support</a><p>
+  <img src="https://imgur.com/a/NnxSZd8>
+  <p>And also, don't try <a href="https://twitter.com/snapkit">Snapchat Snapkit twitter account</a>  It's a bot and has exactly one tweet ATM</p>
+  <h2>Don't expect Snapchat Support to read what you wrote<h2>
+  <p>I'm not certain I know exactly how I got a ticket filed with them - I don't remember using the one place they tell me I should ..  which is <a href="https://support.snapchat.com/en-US/i-need-help>I need help</a></p>
+  <b><p>Here's what I asked</b></p>
+  <img src="https://imgur.com/a/gtuDRaP">
+  <p>And here is the response - yikes</p>
+>Hi there,
+>Thanks for reaching out!
+>If you haven't already you may want to **login to the Snap Kit developer portal** to gain access to Client ID.
+>Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review. 
+  
 </body>
 </html>
