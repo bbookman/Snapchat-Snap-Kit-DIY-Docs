@@ -55,8 +55,8 @@ Client ID from the developer portal<br>
 iOS version 10.0+</p>
 </blockquote>
 <p>However, there is absolutely nothing in the developer portal with a lable <strong>client ID</strong>.  Do they mean OAUTH CLIENT ID?  (I suspect so, but have an email out to them asking about this)<br>
-<p>And here's the ever helpful Develper Portal itself which makes things clear as mud</P>
-<blockquote class="imgur-embed-pub" lang="en" data-id="bi0K5Uk"><a href="//imgur.com/bi0K5Uk">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<p>And here's the ever helpful Developer Portal itself which makes things clear as mud</P>
+<img src="https://i.imgur.com/bi0K5Uk.png">
 <p>…</p>
 <ul>
 <li>SCSDKRedirectUrl (string): The URL that will handle and complete login requests; must be a valid URL in the form foo://bar — without bar, redirects will fail</li>
