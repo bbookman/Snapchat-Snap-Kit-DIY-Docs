@@ -102,10 +102,10 @@ So if you registered my-app://auth/snap then you would have this entry in your I
   <b><p>Here's what I asked</b></p>
   <img src="https://imgur.com/a/gtuDRaP">
   <p>And here is the response - yikes</p>
->Hi there,
->Thanks for reaching out!
->If you haven't already you may want to **login to the Snap Kit developer portal** to gain access to Client ID.
->Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review. 
+Hi there,
+Thanks for reaching out!
+If you haven't already you may want to <b>login to the Snap Kit developer portal</b> to gain access to Client ID.
+Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review. 
   
 </body>
 </html>
