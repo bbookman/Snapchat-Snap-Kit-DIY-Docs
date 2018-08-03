@@ -29,7 +29,7 @@
 <p>Snapchat-Snapkit-DIY-Docs</p>
 <h2 id="purpose">Purpose</h2>
 <p>Snapchat’s Snapkit is new and there are holes in the documentation.  As developers implement Snapkit, they will develop best practices.  This document exists to help developers obtain success with Snapkit and document the best practices they come across.</p>
-<p>There will be copy/paste form the Snapkit documentation.  The purpose of which is to make it easy to see what is there as well as what <strong>should</strong> be there</p>
+<p>There will be copy/paste form the <a href="https://docs.snapchat.com/docs/Snapkit">Snapkit documentation</a>.  The purpose of which is to make it easy to see what is there as well as what <strong>should</strong> be there</p>
 <h2 id="ios-centric">iOS Centric</h2>
 <p>I’m working to integrate Snapkit into an existing iOS Swift project, and so I’ll be adding mostly iOS centric information.  As this repository is open, anyone is welcome to add Android info.</p>
 <h2 id="contributing">Contributing</h2>
@@ -55,7 +55,9 @@ Client ID from the developer portal<br>
 iOS version 10.0+</p>
 </blockquote>
 <p>However, there is absolutely nothing in the developer portal with a lable <strong>client ID</strong>.  Do they mean OAUTH CLIENT ID?  (I suspect so, but have an email out to them asking about this)<br>
-…</p>
+<p>And here's the ever helpful Developer Portal itself which makes things clear as mud</P>
+<img src="https://i.imgur.com/bi0K5Uk.png">
+<p>…</p>
 <ul>
 <li>SCSDKRedirectUrl (string): The URL that will handle and complete login requests; must be a valid URL in the form foo://bar — without bar, redirects will fail</li>
 </ul>
@@ -91,5 +93,4 @@ So if you registered my-app://auth/snap then you would have this entry in your I
   <p>But this is the response I got from doing exactly what it says to do:<p>
   <img src="https://i.imgur.com/jm0ED31.png">
 </body>
-
 </html>
