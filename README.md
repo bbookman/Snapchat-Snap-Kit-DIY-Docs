@@ -98,9 +98,9 @@ So if you registered my-app://auth/snap then you would have this entry in your I
   <img src="https://imgur.com/a/NnxSZd8">
   <p>And also, don't try <a href="https://twitter.com/snapkit">Snapchat Snapkit twitter account</a>  It's a bot and has exactly one tweet ATM</p>
   <h2>Don't expect Snapchat Support to read what you wrote<h2>
-  I'm not certain I know exactly how I got a ticket filed with them - I don't remember using the one place they tell me I should ..  which is <a href="https://support.snapchat.com/en-US/i-need-help>I need help</a>
+  I'm not certain I know exactly how I got a ticket filed with them - I don't remember using the one place they tell me I should ..  which is <a href="https://support.snapchat.com/en-US/i-need-help">I need help</a>
   <b><p>Here's what I asked</b></p>
-  <img src="https://imgur.com/a/gtuDRaP">
+  <img src="https://i.imgur.com/a/gtuDRaP">
 And here is the response - yikes
 Hi there,
 Thanks for reaching out!
