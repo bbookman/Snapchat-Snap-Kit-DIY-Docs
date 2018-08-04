@@ -51,9 +51,9 @@ And here's the ever helpful Developer Portal itself which makes things clear as 
  </dict>
  </array>
  ```
- [See this example info.plist from Snapchat](https://github.com/Snap-Kit/bitmoji-sample/blob/master/ios/BitmojiSampleApp/Supporting%20Files/Info.plist)
-See [this bug filed](https://github.com/Snap-Kit/bitmoji-sample/issues/3)
-See [this medium post](https://medium.com/adventures-in-ios-mobile-app-development/snapchat-snapkit-developer-support-sadly-sad-89d63011c6ad)
+ - [See this example info.plist from Snapchat](https://github.com/Snap-Kit/bitmoji-sample/blob/master/ios/BitmojiSampleApp/Supporting%20Files/Info.plist)
+- See [this bug filed](https://github.com/Snap-Kit/bitmoji-sample/issues/3)
+- See [this medium post](https://medium.com/adventures-in-ios-mobile-app-development/snapchat-snapkit-developer-support-sadly-sad-89d63011c6ad)
 
 ## Snapkit Support
 Snapkit Support is delivered like any other Snapchat issue at [I Need Help](https://support.snapchat.com/en-US/i-need-help)
@@ -72,8 +72,7 @@ Don't tweet to [Snapchat Support](https://twitter.com/snapchatsupport)
 #### When using the official channel, I need help, do not expect them to answer what you asked
 ![question1](images/asked1.png)
 
-Response from support:
-Hi there, Thanks for reaching out! If you haven't already you may want to login to the Snap Kit developer portal to gain access to Client ID. Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review.
+temp
 ---
 
 ## iOS Centric
