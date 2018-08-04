@@ -99,8 +99,10 @@ So if you registered my-app://auth/snap then you would have this entry in your I
   <h2>Don't expect Snapchat Support to read what you wrote</h2>
   I'm not certain I know exactly how I got a ticket filed with them - I don't remember using the one place they tell me I should ..  which is <a href="https://support.snapchat.com/en-US/i-need-help">I need help</a>
   <b><p>Here's what I asked</b></p>
+...
   <a href="http://tinypic.com?ref=3448fh2" target="_blank"><img src="http://i63.tinypic.com/3448fh2.png" border="0" alt="Image and video hosting by TinyPic"></a>
-<b><p>e is the response - yikes</p></b>
+...
+  <b><p>Here is the response - yikes</p></b>
 Hi there,
 Thanks for reaching out!
 If you haven't already you may want to <b>login to the Snap Kit developer portal</b> to gain access to Client ID.
