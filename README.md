@@ -67,10 +67,10 @@ But this is the response I got from doing exactly what it says to do:
 
 #### Don't try this, because you won't get support - Part 2
 Don't tweet to [Snapchat Support](https://twitter.com/snapchatsupport)
-!(images/twitter1.png)
+![twitter](images/twitter1.png)
 
 #### When using the official channel, I need help, do not expect them to answer what you asked
-!(images/asked1.png)
+![question1](images/asked1.png)
 
 Response from support:
 Hi there, Thanks for reaching out! If you haven't already you may want to login to the **Snap Kit developer portal** to gain access to Client ID. Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review.
