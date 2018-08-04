@@ -1,8 +1,11 @@
 # Contents
 - [Purpose](#purpose)
 - [Snapkit](#snapkit)
+  - [LoginKit](#loginkit)
+- [Snapkit Support](#snapkitsupport)
 - [iOS Centric](#ioscentric)
 - [Contributing](#contributing)
+
 
 ## Purpose
 Snapchat’s Snapkit is new and there are holes in the documentation. As developers implement Snapkit, they will develop best practices. This document exists to help developers obtain success with Snapkit and document the best practices they come across.
@@ -16,18 +19,43 @@ There will be copy/paste form the [Snapkit documentation](https://docs.snapchat.
 In your app project in Xcode, add SCSDKCoreKit.framework and SCSDKLoginKit.framework into General > Embedded Binaries.
 
 >Add the following fields in your application’s Info.plist file:
->- SCSDKClientId (string): Your application’s client ID
+>SCSDKClientId (string): Your application’s client ID
 
-It isn’t clear what client ID means. The documentation immediately before this says
+*It isn’t clear what client ID means. The documentation immediately before this says*
 
 >Requirements
 >Client ID from the developer portal
 >iOS version 10.0+
 
-However, there is absolutely nothing in the developer portal with a label **client ID**. Do they mean **OAUTH CLIENT ID**? (I suspect so, but have an email out to them asking about this)
-And here's the ever helpful Developer Portal itself which makes things clear as mud
+*However, there is absolutely nothing in the developer portal with a label **client ID**. Do they mean **OAUTH CLIENT ID**? (I suspect so, but have an email out to them asking about this)
+And here's the ever helpful Developer Portal itself which makes things clear as mud*
 
 ![devloper portal](images/devportal1.png)
+
+>Add the following fields in your application’s Info.plist file:
+>SCSDKRedirectUrl (string): The URL that will handle and complete login requests; must be a valid URL in the form foo://bar — without bar, redirects will fail
+
+**Translating the above into English/code, if you registered *my-app://auth/snap* then you would have this entry in your Info.plist:**
+```xml
+<key>SCSDKRedirectUrl</key>
+<string>my-app://auth/snap</string>
+<key>CFBundleURLTypes</key>
+ <array>
+ <dict>
+ <key>CFBundleTypeRole</key>
+ <string>Editor</string>
+ <key>CFBundleURLSchemes</key>
+ <array>
+ <string>my-app</string>
+ </array>
+ </dict>
+ </array>
+ ```
+ ** - [See this example info.plist from Snapchat](https://github.com/Snap-Kit/bitmoji-sample/blob/master/ios/BitmojiSampleApp/Supporting%20Files/Info.plist)
+ - See [this bug filed](https://github.com/Snap-Kit/bitmoji-sample/issues/3)
+ - See [this medium post](https://medium.com/adventures-in-ios-mobile-app-development/snapchat-snapkit-developer-support-sadly-sad-89d63011c6ad)
+
+## Snapkit Support
 
 
 ### iOS Centric
