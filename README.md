@@ -60,10 +60,10 @@ Snapkit Support is delivered like any other Snapchat issue at [I Need Help](http
 
 #### Don't try this, because you won't get support - Part 1
 Do not do what the documentation says to do in order to get support. This is the doc:
-!(images/Feedback.png)
+![Feedback](images/Feedback.png)
 
 But this is the response I got from doing exactly what it says to do:
-!(images/response1.png)
+![what to do](images/response1.png)
 
 #### Don't try this, because you won't get support - Part 2
 Don't tweet to [Snapchat Support](https://twitter.com/snapchatsupport)
