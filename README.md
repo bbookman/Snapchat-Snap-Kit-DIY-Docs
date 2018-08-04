@@ -3,6 +3,7 @@
 - [Snapkit](#snapkit)
   - [LoginKit](#loginkit)
 - [Snapkit Support](#snapkitsupport)
+   - [Open Issues](#openissues)
 - [iOS Centric](#ioscentric)
 - [Contributing](#contributing)
 
@@ -57,6 +58,9 @@ And here's the ever helpful Developer Portal itself which makes things clear as 
 
 ## Snapkit Support
 Snapkit Support is delivered like any other Snapchat issue at [I Need Help](https://support.snapchat.com/en-US/i-need-help)
+
+### Open issues
+Requests out to Snapchat Support are tracked in this repo's issues marked with [Pending Snap Support](https://github.com/bbookman/Snapchat-Snapkit-DIY-Docs/labels/Pending%20Snap%20Support) label
 
 #### Don't try this, because you won't get support - Part 1
 Do not do what the documentation says to do in order to get support. This is the doc:
