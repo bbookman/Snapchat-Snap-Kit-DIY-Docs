@@ -72,8 +72,8 @@ Don't tweet to [Snapchat Support](https://twitter.com/snapchatsupport)
 #### When using the official channel, I need help, do not expect them to answer what you asked
 ![question1](images/asked1.png)
 
-temp
----
+Response from support:
+Hi there, Thanks for reaching out! If you haven't already you may want to login to the Snap Kit developer portal to gain access to Client ID. Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review.
 
 ## iOS Centric
 I’m working to integrate Snapkit into an existing iOS Swift project, and so I’ll be adding mostly iOS centric information. As this repository is open, anyone is welcome to add Android info.
