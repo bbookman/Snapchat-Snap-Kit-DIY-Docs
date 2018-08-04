@@ -15,9 +15,9 @@ There will be copy/paste form the [Snapkit documentation](https://docs.snapchat.
 
 In your app project in Xcode, add SCSDKCoreKit.framework and SCSDKLoginKit.framework into General > Embedded Binaries.
 
-Add the following fields in your application’s Info.plist file:
-- SCSDKClientId (string): Your application’s client ID
-..........
+>Add the following fields in your application’s Info.plist file:
+>- SCSDKClientId (string): Your application’s client ID
+
 It isn’t clear what client ID means. The documentation immediately before this says
 
 >Requirements
@@ -27,7 +27,8 @@ It isn’t clear what client ID means. The documentation immediately before this
 However, there is absolutely nothing in the developer portal with a label **client ID**. Do they mean **OAUTH CLIENT ID**? (I suspect so, but have an email out to them asking about this)
 And here's the ever helpful Developer Portal itself which makes things clear as mud
 
-/images/devportal1.png
+<img src='https://raw.githubusercontent.com/bbookman/Snapchat-Snapkit-DIY-Docs/images/devportal1.png>
+
 
 ### iOS Centric
 I’m working to integrate Snapkit into an existing iOS Swift project, and so I’ll be adding mostly iOS centric information. As this repository is open, anyone is welcome to add Android info.
