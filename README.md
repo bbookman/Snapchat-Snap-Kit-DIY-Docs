@@ -27,7 +27,7 @@ It isn’t clear what client ID means. The documentation immediately before this
 However, there is absolutely nothing in the developer portal with a label **client ID**. Do they mean **OAUTH CLIENT ID**? (I suspect so, but have an email out to them asking about this)
 And here's the ever helpful Developer Portal itself which makes things clear as mud
 
-<img src='https://raw.githubusercontent.com/bbookman/Snapchat-Snapkit-DIY-Docs/images/devportal1.png>
+<img src='https://raw.githubusercontent.com/bbookman/Snapchat-Snapkit-DIY-Docs/images/devportal1.png">
 
 
 ### iOS Centric
