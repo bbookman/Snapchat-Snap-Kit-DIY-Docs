@@ -106,6 +106,6 @@ Hi there,
 Thanks for reaching out!
 If you haven't already you may want to <b>login to the Snap Kit developer portal</b> to gain access to Client ID.
 Before we enable an application for public use, Snap reviews all apps that integrate with Snap Kit. To submit, simply add an app in the Snap Kit developer portal once your development is complete, then click Submit for Review. 
-  
+  <a href="http://tinypic.com?ref=3448fh2" target="_blank"><img src="http://i63.tinypic.com/3448fh2.png" border="0" alt="Image and video hosting by TinyPic"></a>
 </body>
 </html>
