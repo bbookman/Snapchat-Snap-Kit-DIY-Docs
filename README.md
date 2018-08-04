@@ -2,10 +2,11 @@
 - [Purpose](#purpose)
 - [Snapkit](#snapkit)
   - [LoginKit](#loginkit)
-- [Snapkit Support](#snapkitsupport)
-   - [Open Issues](#openissues)
+- [Snapkit Support](#snapkit-support)
+   - [Open Issues](#open-issues)
    - [How not to get support](#not)
-- [iOS Centric](#ioscentric)
+- [iOS Centric](#ios-centric)
+- [Bugs and Feature Requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 
 
