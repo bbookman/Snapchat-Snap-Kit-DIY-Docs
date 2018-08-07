@@ -10,7 +10,7 @@
 Snapchat’s Snap Kit is new and there are holes in the documentation. As developers implement Snap Kit, they will find answers and gain best practices.  This document exists to help developers obtain success with Snap Kit.
 
 ### Copying Snap Kit Documentation
-The wiki for this repository will contain copy/paste from [Snapkit documentation](https://docs.snapchat.com/docs/). The purpose of which is to make it easy to see what is there as well as what should be there.  Contributsions from sources other than the Snap Kit documentation will be noted as such.
+The [wiki for this repository](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs/wiki) will contain copy/paste from [Snapkit documentation](https://docs.snapchat.com/docs/). The purpose of which is to make it easy to see what is there as well as what should be there.  Contributsions from sources other than the Snap Kit documentation will be noted as such.
 
 ## Open issues
 * In this repository wiki you will see this image ![pending support](/images/pendingSupport.png) which indicates a question has been filed with Snapchat support and is awaiting a response
