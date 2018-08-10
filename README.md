@@ -1,4 +1,5 @@
 # Contents
+- [Just Get Me To The Good Stuff](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs/wiki)
 - [Purpose](#purpose)
 - [Open Issues](#open-issues)
 - [Contributing](#contributing)
@@ -21,7 +22,7 @@ For text that did not orignate from Snapchat, two markers are inserted:
 * The issues are also tracked in this repository's [issues](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs/issues?q=is%3Aissue+is%3Aopen+label%3A%22Pending+Snap+Support%22) marked with `Pending Snap Support`
 
 ## Contributing
-Please fork and submit pull requests
+For the moment, file a bug and mark it as an [enhancement](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs/labels/enhancement).  I'll monitor and integrate as time permits.
 
 ## Bugs and feature requests
 File bugs or requests as any other repository. Feel free to work on anything that is there.
