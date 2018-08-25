@@ -4,7 +4,7 @@
 - [Open Issues](#open-issues)
 - [Contributing](#contributing)
 - [Bugs and Feature Requests](#bugs-and-feature-requests)
-- [Contact](#contact)
+- [Contact](#contact-me)
 
 
 ## Purpose
@@ -27,6 +27,23 @@ For the moment, file a bug and mark it as an [enhancement](https://github.com/bb
 ## Bugs and feature requests
 File bugs or requests as any other repository. Feel free to work on anything that is there.
 
-## Contact
-For most things, file bugs. anything else:
-[@saganone1](http://twitter.com/saganone1) on twitter
+# If You Liked This Repository, you may also enjoy
+* [Snapchat Snap Kit Mapping GPS/Location Sticker using Here SDK](https://github.com/bbookman/Snapchat-Snap-Kit-Demo-Here)
+* [Snapchat Snap Kit Demo App](https://github.com/bbookman/SnapKitSample-iOS)
+* [Adventures in iOS Mobile App Development](https://medium.com/adventures-in-ios-mobile-app-development)
+* [We Are All Made Of Stars](http://bbookman.github.io)
+
+# Contact Me
+* [Patreon](https://www.patreon.com/saganone)
+* [Indie Hacker](https://www.indiehackers.com/bbookman)
+* [Blog](http://bbookman.github.io)
+* [LinkedIn](http://linkedin.com/in/brucebookman)
+* [Twitter @saganone1](https://twitter.com/saganone1)
+* [Medium](https://medium.com/adventures-in-ios-mobile-app-development)
+* [Codementor.io](https://www.codementor.io/bbookman)
+* [Sagan.one](http://sagan.one)
+* [Quora](https://saganone.quora.com/)
+* [GitHub](https://github.com/bbookman)
+* [Dev.to](https://dev.to/bbookman)
+* [Reddit](https://www.reddit.com/user/Bbookman)
+* [Youtube](https://www.youtube.com/channel/UCERHLEbt6fipRMiPRR4u3SQ)
