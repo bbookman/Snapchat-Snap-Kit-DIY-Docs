@@ -17,6 +17,9 @@ For text that did not orignate from Snapchat, two markers are inserted:
 * DIY INSERT START
 * DIY INSERT END
 
+## DIY Knowledge Base
+If any dev out there runs into a problem and solution, I'd like to add it to the brand new (as of 9/2018) Knowlege Base
+
 ## Open issues
 * In this repository wiki you will see a link `Pending Snap Support` which indicates a question has been filed with Snapchat support and is awaiting a response.  The link will lead to the issue tracking as described in the bullet below
 * The issues are also tracked in this repository's [issues](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs/issues?q=is%3Aissue+is%3Aopen+label%3A%22Pending+Snap+Support%22) marked with `Pending Snap Support`
@@ -34,16 +37,16 @@ File bugs or requests as any other repository. Feel free to work on anything tha
 * [We Are All Made Of Stars](http://bbookman.github.io)
 
 # Contact Me
-* [Patreon](https://www.patreon.com/saganone)
-* [Indie Hacker](https://www.indiehackers.com/bbookman)
-* [Blog](http://bbookman.github.io)
 * [LinkedIn](http://linkedin.com/in/brucebookman)
-* [Twitter @saganone1](https://twitter.com/saganone1)
+* [Twitter @brucebookman](https://twitter.com/brucebookman)
+* [Blog](http://bbookman.github.io)
 * [Medium](https://medium.com/adventures-in-ios-mobile-app-development)
+* [Dev.to](https://dev.to/bbookman)
 * [Codementor.io](https://www.codementor.io/bbookman)
+* [Indie Hacker](https://www.indiehackers.com/bbookman)
 * [Sagan.one](http://sagan.one)
 * [Quora](https://saganone.quora.com/)
 * [GitHub](https://github.com/bbookman)
-* [Dev.to](https://dev.to/bbookman)
+
 * [Reddit](https://www.reddit.com/user/Bbookman)
 * [Youtube](https://www.youtube.com/channel/UCERHLEbt6fipRMiPRR4u3SQ)
